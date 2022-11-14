@@ -4,3 +4,6 @@
 -- To run the code,
     python main.py
     will show a quick demo.
+
+-- For more details, please refer to and cite: 
+   https://arxiv.org/abs/2105.10862
